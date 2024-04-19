@@ -1,2 +1,2 @@
 # CSS-Project-Portfolio
-Portfolio with CSS
+Here I made my portfolio website with using CSS only.
